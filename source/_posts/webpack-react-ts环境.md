@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: webpack-react-ts环境
 ---
 最近再看typescript的时候结合了官网的配置加上自己的一些配置实现了一个可以自动打包,可以去解析一些常规文件
 
