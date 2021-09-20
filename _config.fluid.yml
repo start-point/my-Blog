@@ -202,7 +202,7 @@ index:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/bg/bg.png
+  banner_img: /img/bg/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -212,7 +212,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/bg/bg.png
+  banner_img: /img/bg/bg.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -230,7 +230,7 @@ tag:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/bg/bg.png
+  banner_img: /img/bg/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -238,7 +238,7 @@ archive:
 # 关于页的配置
 about:
   enable: true
-  banner_img: /img/bg/bg.png
+  banner_img: /img/bg/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/t.jpg
