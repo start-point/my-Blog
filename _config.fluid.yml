@@ -171,7 +171,7 @@ code:
       preprocess: true
 
 index:
-  banner_img: /img/bg/bg.jpg
+  banner_img: /img/bg/bg4.png
   slogan:
     enable: true
     text: "欢迎来到小陈同学的博客首页..."
