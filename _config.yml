@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 李子园ye
+title: 小陈同学
 subtitle: ''
 description: ''
 keywords:
 author: 小陈同学
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,9 +97,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 修改博客顶部右侧的标题
+navbar:
+  blog_title: 小陈同学
