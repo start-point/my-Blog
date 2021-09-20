@@ -195,8 +195,27 @@ index:
 #   theme:github-light
 #   crossorigin:anonymous
 
-# 标签
+
+#---------------------------
+# 分类页
+# Category Page
+#---------------------------
+category:
+  enable: true
+  banner_img: /img/bg/bg.png
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+
+#---------------------------
+# 标签页
+# Tag Page
+#---------------------------
 tag:
+  enable: true
+  banner_img: /img/bg/bg.png
+  banner_img_height: 80
+  banner_mask_alpha: 0.3
+  subtitle:
   tagcloud:
     min_font: 15
     max_font: 30
@@ -204,8 +223,24 @@ tag:
     start_color: "#BBBBEE"
     end_color: "#337ab7"
 
+
+
+#---------------------------
+# 归档页
+# Archive Page
+#---------------------------
+archive:
+  banner_img: /img/bg/bg.png
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+
+
 # 关于页的配置
 about:
+  enable: true
+  banner_img: /img/bg/bg.png
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
   avatar: /img/t.jpg
   name: "陈永龙"
   intro: "一杯咖啡☕ 一行代码(⊙o⊙)？ 一个BUG 瞅一天"
