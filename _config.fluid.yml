@@ -174,7 +174,7 @@ index:
   banner_img: /img/bg/bg4.png
   slogan:
     enable: true
-    text: "Bug-oriented programming🎉..."
+    text: "Miànxiàng xīngkōng biānchéng🎉..."
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
