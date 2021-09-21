@@ -174,7 +174,7 @@ index:
   banner_img: /img/bg/bg4.png
   slogan:
     enable: true
-    text: "欢迎来到小陈同学的博客首页..."
+    text: "欢迎来到小陈首页,这里有着漫天的星空✨..."
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
