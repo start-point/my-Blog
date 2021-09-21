@@ -171,7 +171,7 @@ code:
       preprocess: true
 
 index:
-  banner_img: /img/bg/bg4.png
+  banner_img: /img/bg/bg4.jpg
   slogan:
     enable: true
     text: "Miànxiàng xīngkōng biānchéng🎉..."
