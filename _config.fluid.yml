@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小陈同学
+title: ChenYongLong'Sky
 subtitle: ''
 description: ''
 keywords:
-author: 小陈同学
+author: ChenYongLong'Sky
 language: zh-CN
 timezone: ''
 
@@ -114,7 +114,7 @@ deploy:
 
 # 修改博客顶部右侧的标题
 navbar:
-  blog_title: 小陈同学
+  blog_title: ChenYongLong'Sky
 
 footer:
   statistics:
@@ -174,7 +174,7 @@ index:
   banner_img: /img/bg/bg4.png
   slogan:
     enable: true
-    text: "欢迎来到小陈首页,这里有着漫天的星空✨..."
+    text: "Bug-oriented programming🎉..."
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
