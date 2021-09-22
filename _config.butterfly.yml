@@ -307,8 +307,10 @@ subtitle:
   # 例如 ”&quotNever put off till tomorrow what you can do today&quot"
   # 如果关闭打字效果，subtitle只会显示sub的第一行文字
   sub:
-    - 今日事&#44;今日毕
-    - Never put off till tomorrow what you can do today
-
+    - Miànxiàng xīngkōng biānchéng🎉...
+    - 我对月亮许愿，望天空的星星越来越多 
+    - 望你离我越来越近 
+    - 望写的bug 也越来越少 
+    
 # Loading Animation (加載動畫)
 preloader: true
