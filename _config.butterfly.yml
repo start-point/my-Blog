@@ -124,9 +124,8 @@ menu:
   标籤: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
+    照片: /pic/ || fas fa-images
+    电影资源: /movies/ || fas fa-video
   关于: /about/ || fas fa-heart
 
 # 主题
@@ -135,16 +134,16 @@ highlight_theme: mac light
 highlight_copy: true
 # 社交图标
 social:
-  fab fa-github: https://github.com/xxxxx || Github
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/start-point || Github
+  fas fa-envelope: mailto:each_c120@163.com || Email
 # 主页顶部图片
 index_img: /img/bg/bg4.jpg
 # 子页面默认顶部图片
-category_img: /img/bg/bg.jpg
+category_img:  /img/bg/bg4.jpg
 # 归档页面的
-archive_img: /img/bg/bg.jpg
+archive_img: /img/bg/bg4.jpg
 # 的标签页面
-tag_img: /img/bg/bg.jpg
+tag_img:  /img/bg/bg4.jpg
 # 用于浏览器标签的图标
 # Icon for browser tab
 favicon: /img/foc.png
