@@ -292,7 +292,7 @@ subtitle:
   # 打字效果
   effect: true
   # 循环或者只打字一次
-  loop: false
+  loop: true
   # source调用第三方服务
   # source: false 关闭调用
   # source: 1  调用搏天api的随机语录（简体） 
@@ -308,9 +308,9 @@ subtitle:
   # 如果关闭打字效果，subtitle只会显示sub的第一行文字
   sub:
     - Miànxiàng xīngkōng biānchéng🎉...
-    - 我对月亮许愿，望天空的星星越来越多 
-    - 望你离我越来越近 
-    - 望写的bug 也越来越少 
+    - 我对月亮许愿，望天空的星星越来越多🎉... 
+    - 望你离我越来越近🎉...
+    - 望写的bug 也越来越少🎉...
     
 # Loading Animation (加載動畫)
 preloader: true
