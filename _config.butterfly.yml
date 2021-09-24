@@ -443,19 +443,14 @@ valine:
   visitor: false
   option:
 
-# 说说
-# HexoPlusPlus Talk
-# see https://hexoplusplus.js.org
-# hpptalk:
-#   enable: true 
-#   domain: http://localhost:4000
-#   path:
-#   limit:
-#   start:
-#   js:
-#   css:
-#   option:
-#   front_matter:
+# 搜索
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
+local_search:
+  enable: true
 
 
 # PWA
