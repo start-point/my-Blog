@@ -297,7 +297,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: 
+background: /img/bg/bg4.jpg
 
 # Footer Background
 footer_bg: /img/bg/bg4.jpg
@@ -362,12 +362,6 @@ font:
   code-font-size:
   font-family:
   code-font-family:
-
-# Font settings for the site title and site subtitle
-# 左上角網站名字 主頁居中網站名字
-blog_title_font: 
-  font_link: 
-  font-family: 
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
