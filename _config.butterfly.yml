@@ -452,6 +452,11 @@ search:
 local_search:
   enable: true
 
+# 文章底部版权声明关闭
+post_copyright:
+  copyright: false
+  enable: false
+  decode: false
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
