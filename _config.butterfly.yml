@@ -444,11 +444,11 @@ valine:
   option:
 
 # 搜索
-search:
-  path: search.xml
-  field: post
-  content: true
-  template: ./search.xml
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   template: ./search.xml
 local_search:
   enable: true
 
