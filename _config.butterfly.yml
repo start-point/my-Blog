@@ -449,8 +449,8 @@ valine:
 #   field: post
 #   content: true
 #   template: ./search.xml
-local_search:
-  enable: true
+# local_search:
+#   enable: true
 
 # 文章底部版权声明关闭
 post_copyright:
