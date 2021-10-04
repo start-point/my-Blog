@@ -136,7 +136,7 @@ highlight_copy: true
 # 社交图标
 social:
   fab fa-github: https://github.com/start-point || Github
-  fas fa-envelope: mailto:each_c120@163.com || Email
+  fas fa-envelope: mailto:echo_c120@163.com || Email
 # 主页顶部图片
 index_img: /img/bg/bg4.jpg
 # 子页面默认顶部图片
