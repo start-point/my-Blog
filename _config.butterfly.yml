@@ -180,7 +180,7 @@ avatar:
 footer:
   owner:
     enable: true
-    since: 2021
+    since: <a href="https://beian.miit.gov.cn/">皖ICP备2021014023号</a>
     custom_text: /index.html
 
 # 访问人数
